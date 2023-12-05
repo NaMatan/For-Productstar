@@ -1,2 +1,2 @@
 Создала новый файл в PyCharm
-И нажала GIT->Push
+И нажала commit -> push
